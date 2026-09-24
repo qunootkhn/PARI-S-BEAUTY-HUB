@@ -3134,3 +3134,16 @@ footer {
         transition-duration: 0.01ms !important;
     }
 }
+/* ================= DEVELOPER CREDIT ================= */
+
+.developer-credit {
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #8f8f8f;
+    letter-spacing: 0.4px;
+}
+
+.developer-credit strong {
+    color: var(--gold);
+    font-weight: 500;
+}
